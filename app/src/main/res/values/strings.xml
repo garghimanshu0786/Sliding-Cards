@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SlidingCards</string>
+    <string name="start_flow">Start Flow</string>
+    <string name="select_payment_amount">Enter the payment amount</string>
+    <string name="select_any_amount">Enter the amount you wish to pay</string>
+    <string name="choose_emi_option">Choose EMI option</string>
+    <string name="close">Click Here to Close</string>
+    <string name="enter_amount_to_proceed">Enter amount to proceed</string>
+    <string name="select_your_payment_method">Select your payment method</string>
+    <string name="select_your_bank_account">Select your bank account</string>
+    <string name="select_emi_option">Choose your preferred EMI option</string>
+    <string name="select_bank">Select the bank account that you want to use for this transaction</string>
+    <string name="successfully_submitted">Your details are submitted successfully</string>
+    <string name="finish">Finish</string>
+</resources>
